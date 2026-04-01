@@ -1,6 +1,6 @@
-# EASIAM 2026 - Jekyll Site
+# ICQMC 2026 - Jekyll Site
 
-19th East Asia SIAM Annual Meeting website built with Jekyll.
+ICQMC website built with Jekyll.
 
 ## Setup
 
@@ -51,11 +51,11 @@ You can update conference information by editing YAML files in the `_data/` dire
 Edit `_data/conference.yml`:
 
 ```yaml
-name: "19th EASIAM Annual Meeting"
-short_name: "EASIAM 2026"
+name: "ICQMC"
+short_name: "ICQMC 2026"
 dates: "August 23-27, 2026"
 venue: "Oriental Hotel, Jeju Island, Korea"
-email: "easiam2026@gmail.com"
+email: "icqmc2026@gmail.com"
 about: "Conference description..."
 ```
 

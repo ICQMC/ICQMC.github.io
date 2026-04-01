@@ -1,19 +1,7 @@
-- name: "NIMS"
-  logo: "logo_nims.png"
-  alt: "NIMS Logo"
+- name: "Guilin University of Electronic Technology"
+  logo: "logo_guilin.png"
+  alt: "Guilin University of Electronic Technology Logo"
 
-- name: "MINDS"
-  logo: "logo_minds.png"
-  alt: "MINDS Logo"
-
-- name: "POSTECH Math"
-  logo: "logo_postechmath.png"
-  alt: "POSTECH Math Logo"
-
-- name: "SIAM"
-  logo: "logo_siam.png"
-  alt: "SIAM Logo"
-
-- name: "KSIAM"
-  logo: "logo_ksiam.png"
-  alt: "KSIAM Logo"
+- name: "jiangsu Normal University"
+  logo: "logo_jnu.png"
+  alt: "jiangsu Normal University Logo"

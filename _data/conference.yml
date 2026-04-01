@@ -1,10 +1,10 @@
 # Conference Basic Information
-name: "19th EASIAM Annual Meeting"
-short_name: "EASIAM 2026"
-dates: "August 23-27, 2026"
-venue: "Oriental Hotel, Jeju Island, Korea"
-location: "Jeju Island, Korea"
-email: "easiam2026@gmail.com"
+name: "6th ICQMC Annual Meeting"
+short_name: "ICQMC 2026"
+dates: "May 15-18, 2026"
+venue: "Guilin University of Electronic Technology, Guilin, GuangXi, China"
+location: "Guilin, GuangXi, China"
+email: "icqmc2026@126.com"
 
 # About
-about: "The 19th East Asia SIAM (EASIAM) Annual Meeting brings together researchers, educators, and students in the field of industrial and applied mathematics from East and Southeast Asia. The conference provides a forum for the exchange of ideas and the presentation of recent results in all areas of applied mathematics."
+about: "The conference will focus on the latest research advances and future trends in quaternion matrix computations and their related applications, and aims to provide a high-level forum for academic exchange and discussion. Topics of interest include, but are not limited to: quaternion matrix computation methods, theoretical analysis of quaternion matrices, large-scale structured matrix problems, color image processing, and applications of quaternions. We also hope to take this opportunity to provide researchers, educators, and practitioners in matrix analysis and related fields with an efficient channel for scholarly exchange, to promote in-depth communication and practical cooperation among peers, to strengthen academic ties, and to foster innovation and the transfer of research outcomes in the relevant disciplines."

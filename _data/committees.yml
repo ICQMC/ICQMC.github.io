@@ -1,167 +1,92 @@
-local_chairs:
-  - name: "Minseok Choi"
-    affiliation: "POSTECH"
-  
-  - name: "Taeyoung Ha"
-    affiliation: "NIMS"
-  
-  - name: "Jae-Hun Jung"
-    affiliation: "POSTECH"
 
-local_organizing:
-  - name: "Sehun Chun"
-    affiliation: "Yonsei University"
-  
-  - name: "Youngjoon Hong"
-    affiliation: "Seoul National University"
-  
-  - name: "Jinwoo Jang"
-    affiliation: "POSTECH"
-  
-  - name: "Hyeonseong Jin"
-    affiliation: "Jeju National University"
-  
-  - name: "Hyea Hyun Kim"
-    affiliation: "Kyunghee University"
-  
-  - name: "Jinsu Kim"
-    affiliation: "POSTECH"
-  
-  - name: "Seungchul Lee"
-    affiliation: "KAIST"
-  
-  - name: "Jae-Hyuk Lim"
-    affiliation: "Kyunghee University"
-  
-  - name: "Hyunseok Oh"
-    affiliation: "GIST"
-  
-  - name: "Noseong Park"
-    affiliation: "KAIST"
-  
-  - name: "Jaemin Shin"
-    affiliation: "Chungbuk National University"
-
-advisory:
-  - name: "Tao Tang"
-    affiliation: "BNU-HKBU United International College"
-    country: "China"
-  
-  - name: "Ming-Chih Lai"
-    affiliation: "National Yang Ming Chiao Tung University"
-    country: "Taiwan"
-  
-  - name: "Hisashi Okamoto"
-    affiliation: "Gakushuin University"
-    country: "Japan"
-  
-  - name: "Yongwimon Lenbury"
-    affiliation: "Mahidol University"
-    country: "Thailand"
-  
-  - name: "Hyung-Chun Lee"
-    affiliation: "Ajou University"
-    country: "Republic of Korea"
-  
-  - name: "Zhijian (Jerry) Yang"
-    affiliation: "Wuhan University"
+scientific_committee:
+  # Chair
+  - name: "Musheng Wei (Chair)"
+    affiliation: "Shanghai Normal University"
     country: "China"
 
-executive:
-  # Officers
-  - name: "Tao Zhou (President)"
-    affiliation: "Chinese Academy of Sciences"
+  # Members
+  - name: "Xuefeng Duan"
+    affiliation: "Guilin University of Electronic Technology"
     country: "China"
   
-  - name: "Zhiwen Zhang (Vice-President)"
-    affiliation: "University of Hong Kong"
-    country: "Hong Kong, China"
-  
-  - name: "Minseok Choi (Vice-President)"
-    affiliation: "Pohang University of Science and Technology"
-    country: "Republic of Korea"
-  
-  - name: "Xiliang Lu (Secretary)"
-    affiliation: "Wuhan University"
+  - name: "Zhigang Jia"
+    affiliation: "Jiangsu Normal University"
     country: "China"
   
-  # Area Representatives
-  - name: "Malcolm Anderson"
-    affiliation: "Universiti Brunei Darussalam"
-    country: "Brunei"
-  
-  - name: "Weiying Zheng"
-    affiliation: "Chinese Academy of Sciences"
+  - name: "Tongsong Jiang"
+    affiliation: "Linyi University"
     country: "China"
   
-  - name: "Shing-Yu Leung"
-    affiliation: "Hong Kong University of Science & Technology"
-    country: "Hong Kong, China"
+  - name: "Wen Li"
+    affiliation: "South China Normal University"
+    country: "China"
   
-  - name: "Zhonghua Qiao"
+  - name: "Michael K. Ng"
+    affiliation: "Hong Kong Baptist University"
+    country: "China"
+  
+  - name: "Liqun Qi"
     affiliation: "The Hong Kong Polytechnic University"
-    country: "Hong Kong, China"
+    country: "China"
   
-  - name: "Sri Redjeki Pudjaprasetya"
-    affiliation: "Bandung Institute of Technology"
-    country: "Indonesia"
+  - name: "Vasily Ivanovich Vasil'ev"
+    affiliation: "North-Eastern Federal University"
+    country: "Russia"
   
-  - name: "Ikha Magdalena"
-    affiliation: "Bandung Institute of Technology"
-    country: "Indonesia"
+  - name: "Qingwen Wang"
+    affiliation: "Shanghai University"
+    country: "China"
   
-  - name: "Hiroshi Fujiwara"
-    affiliation: "Kyoto University"
-    country: "Japan"
+  - name: "Fuzhen Zhang"
+    affiliation: "Nova Southeastern University"
+    country: "USA"
   
-  - name: "Yoshinobu Kawahara"
-    affiliation: "Osaka University"
-    country: "Japan"
+  - name: "Jianli Zhao"
+    affiliation: "Liaocheng University"
+    country: "China"
   
-  - name: "Hee-Dae Kwon"
-    affiliation: "Inha University"
-    country: "Korea"
-  
-  - name: "Myungjoo Kang"
-    affiliation: "Seoul National University"
-    country: "Korea"
-  
-  - name: "Guanghui Hu"
+  - name: "Yicong Zhou"
     affiliation: "University of Macau"
-    country: "Macau, China"
+    country: "China"
+
+organizing_committee:
+  - name: "Xuefeng Duan (Chair)"
+    affiliation: "Guilin University of Electronic Technology"
+    country: "China"
   
-  - name: "Siu-long Lei"
-    affiliation: "University of Macau"
-    country: "Macau, China"
+  - name: "Jiaofen Li (Co-Chair)"
+    affiliation: "Guilin University of Electronic Technology"
+    country: "China"
+
+  - name: "Shanqi Duan"
+    affiliation: "Guilin University of Electronic Technology"
+    country: "China"
   
-  - name: "Fatimah Abdul Razak"
-    affiliation: "National University of Malaysia"
-    country: "Malaysia"
+  - name: "Zhuning Jiang"
+    affiliation: "Guilin University of Electronic Technology"
+    country: "China"
   
-  - name: "Angelyn Lao"
-    affiliation: "De La Salle University"
-    country: "Philippines"
+  - name: "Rushi Lan"
+    affiliation: "Guilin University of Electronic Technology"
+    country: "China"
   
-  - name: "Hui Ji"
-    affiliation: "National University of Singapore"
-    country: "Singapore"
+  - name: "Chunmei Li"
+    affiliation: "Guilin University of Electronic Technology"
+    country: "China"
+
+  - name: "Sitao Ling"
+    affiliation: "China University of Mining and Technology"
+    country: "China"
   
-  - name: "Weizhu Bao"
-    affiliation: "National University of Singapore"
-    country: "Singapore"
+  - name: "Jingjing Peng"
+    affiliation: "Guilin University of Electronic Technology"
+    country: "China"
+
+  - name: "Gang Wang"
+    affiliation: "Qufu Normal University"
+    country: "China"
   
-  - name: "Tsung-Ming Huang"
-    affiliation: "National Taiwan Normal University"
-    country: "Chinese Taipei"
-  
-  - name: "Matthew M. Lin"
-    affiliation: "National Cheng Kung University"
-    country: "Chinese Taipei"
-  
-  - name: "Somkid Amornsamankul"
-    affiliation: "Mahidol University"
-    country: "Thailand"
-  
-  - name: "Duangkamon Baowan"
-    affiliation: "Mahidol University"
-    country: "Thailand"
+  - name: "Yaqiong Wen"
+    affiliation: "Guilin University of Electronic Technology"
+    country: "China"
