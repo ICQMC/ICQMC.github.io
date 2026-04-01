@@ -5,47 +5,12 @@ title: Committees
 
 <section id="organizing" class="section bg-light">
     <div class="container">
-        <h2 class="section-title">Committees</h2>
+        <h2 class="section-title">Conference Organizing Committee</h2>
 
+        {% if site.data.committees.organizing_committee.size > 0 %}
         <div class="committee-group">
-            <h3 class="committee-subtitle">Local Chairs</h3>
-            <div class="committee-grid chairs">
-                {% for member in site.data.committees.local_chairs %}
-                <div class="member-card">
-                    <div class="member-info">
-                        <h4>{{ member.name }}</h4>
-                        <p>{{ member.affiliation }}</p>
-                    </div>
-                </div>
-                {% endfor %}
-            </div>
-        </div>
-
-        <div class="committee-group">
-            <h3 class="committee-subtitle">Local Organizing Committee</h3>
             <div class="committee-grid">
-                {% for member in site.data.committees.local_organizing %}
-                <div class="member-card">
-                    <div class="member-info">
-                        <h4>{{ member.name }}</h4>
-                        <p>{{ member.affiliation }}</p>
-                    </div>
-                </div>
-                {% endfor %}
-            </div>
-        </div>
-    </div>
-</section>
-
-<section id="scientific" class="section">
-    <div class="container">
-        <h2 class="section-title">Scientific Committee</h2>
-
-        {% if site.data.committees.advisory.size > 0 %}
-        <div class="committee-group">
-            <h3 class="committee-subtitle">ICQMC Advisory Committee</h3>
-            <div class="committee-grid">
-                {% for member in site.data.committees.advisory %}
+                {% for member in site.data.committees.organizing_committee %}
                 <div class="member-card">
                     <div class="member-info">
                         <h4>{{ member.name }}</h4>
@@ -56,12 +21,17 @@ title: Committees
             </div>
         </div>
         {% endif %}
+    </div>
+</section>
 
-        {% if site.data.committees.executive.size > 0 %}
+<section id="scientific" class="section">
+    <div class="container">
+        <h2 class="section-title">Conference Scientific Committee</h2>
+
+        {% if site.data.committees.scientific_committee.size > 0 %}
         <div class="committee-group">
-            <h3 class="committee-subtitle">ICQMC Executive Committee</h3>
             <div class="committee-grid">
-                {% for member in site.data.committees.executive %}
+                {% for member in site.data.committees.scientific_committee %}
                 <div class="member-card">
                     <div class="member-info">
                         <h4>{{ member.name }}</h4>

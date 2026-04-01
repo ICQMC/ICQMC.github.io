@@ -144,7 +144,6 @@ Edit `_data/organizers.yml`:
 ├── committees.html      # Committees page template
 ├── registration.html    # Registration page template
 ├── speakers.html        # Speakers page
-├── minisymposiums.html  # Mini-symposiums page
 ├── submission.html      # Submission page
 ├── venue.html           # Venue page
 └── contact.html         # Contact page template
