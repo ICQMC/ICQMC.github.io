@@ -5,3 +5,31 @@
 - name: "jiangsu Normal University"
   logo: "JSNU.png"
   alt: "jiangsu Normal University Logo"
+
+- name: "CUMT"
+  logo: "CUMT.png"
+  alt: "CUMT Logo"
+
+- name: "LCU"
+  logo: "LCU.png"
+  alt: "LCU Logo"
+
+- name: "LYU"
+  logo: "LYU.png"
+  alt: "LYU Logo"
+
+- name: "QFNU"
+  logo: "QFNU.png"
+  alt: "QFNU Logo"
+
+- name: "SCNU"
+  logo: "SCNU.png"
+  alt: "SCNU Logo"
+
+- name: "SHU"
+  logo: "SHU.png"
+  alt: "SHU Logo"
+
+- name: "SNU"
+  logo: "SNU.png"
+  alt: "SNU Logo"
