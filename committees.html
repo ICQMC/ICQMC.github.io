@@ -3,14 +3,14 @@ layout: default
 title: Committees
 ---
 
-<section id="organizing" class="section bg-light">
+<section id="scientific" class="section bg-light">
     <div class="container">
-        <h2 class="section-title">Conference Organizing Committee</h2>
+        <h2 class="section-title">Conference Scientific Committee</h2>
 
-        {% if site.data.committees.organizing_committee.size > 0 %}
+        {% if site.data.committees.scientific_committee.size > 0 %}
         <div class="committee-group">
             <div class="committee-grid">
-                {% for member in site.data.committees.organizing_committee %}
+                {% for member in site.data.committees.scientific_committee %}
                 <div class="member-card">
                     <div class="member-info">
                         <h4>{{ member.name }}</h4>
@@ -24,14 +24,14 @@ title: Committees
     </div>
 </section>
 
-<section id="scientific" class="section">
+<section id="organizing" class="section">
     <div class="container">
-        <h2 class="section-title">Conference Scientific Committee</h2>
+        <h2 class="section-title">Conference Organizing Committee</h2>
 
-        {% if site.data.committees.scientific_committee.size > 0 %}
+        {% if site.data.committees.organizing_committee.size > 0 %}
         <div class="committee-group">
             <div class="committee-grid">
-                {% for member in site.data.committees.scientific_committee %}
+                {% for member in site.data.committees.organizing_committee %}
                 <div class="member-card">
                     <div class="member-info">
                         <h4>{{ member.name }}</h4>
