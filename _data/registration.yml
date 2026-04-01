@@ -1,16 +1,24 @@
 categories:
   - name: "Faculty & Postdoctoral Researchers"
     description: "Faculty members and postdoctoral researchers"
+    early_bird: "-"
+    early_deadline: "April 15"
     regular: "1200 CNY"
     
   - name: "Graduate Students"
     description: "Master's and PhD students"
+    early_bird: "-"
+    early_deadline: "April 15"
     regular: "500 CNY"
     
   - name: "Accompanying Persons"
     description: "Family members accompanying participants"
+    early_bird: "-"
+    early_deadline: "April 15"
     regular: "500 CNY"
     
   - name: "Invited Speakers"
     description: "Conference invited speakers"
+    early_bird: "-"
+    early_deadline: "April 15"
     regular: "Free (Registration fee waived)"

@@ -1,8 +1,5 @@
-- name: "Abstract Submission Deadline"
+- name: "PaperSubmission Deadline"
   subtitle: "(Minisymposium, Contributed Talks, and Posters)"
-  date: "April 15, 2026"
-
-- name: "Early Bird Registration Deadline"
   date: "April 15, 2026"
 
 - name: "Conference Dates"
