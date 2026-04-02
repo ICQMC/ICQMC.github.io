@@ -313,13 +313,13 @@ footer p {
 
 /* Sponsors Section */
 .sponsors-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
     gap: 20px;
     max-width: 100%;
     margin: 0 auto;
-    justify-items: center;
-    align-items: center;
 }
 
 .sponsor-item {
