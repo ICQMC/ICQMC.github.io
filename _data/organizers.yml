@@ -1,3 +1,7 @@
+- name: "CUMT"
+  logo: "CUMT.png"
+  alt: "CUMT Logo"
+
 - name: "Guilin University of Electronic Technology"
   logo: "GUET.png"
   alt: "Guilin University of Electronic Technology Logo"
@@ -13,10 +17,6 @@
 - name: "jiangsu Normal University"
   logo: "JSNU.png"
   alt: "jiangsu Normal University Logo"
-
-- name: "CUMT"
-  logo: "CUMT.png"
-  alt: "CUMT Logo"
 
 - name: "LCU"
   logo: "LCU.png"
