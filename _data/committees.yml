@@ -5,6 +5,10 @@ scientific_committee:
     affiliation: "Shanghai Normal University"
     country: "China"
 
+  - name: "Michael K. Ng (Co-Chair)"
+    affiliation: "Hong Kong Baptist University"
+    country: "China"
+
   # Members
   - name: "Xuefeng Duan"
     affiliation: "Guilin University of Electronic Technology"
@@ -20,10 +24,6 @@ scientific_committee:
   
   - name: "Wen Li"
     affiliation: "South China Normal University"
-    country: "China"
-  
-  - name: "Michael K. Ng"
-    affiliation: "Hong Kong Baptist University"
     country: "China"
   
   - name: "Liqun Qi"
