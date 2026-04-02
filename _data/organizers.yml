@@ -2,6 +2,14 @@
   logo: "GUET.png"
   alt: "Guilin University of Electronic Technology Logo"
 
+- name: "Hong Kong Baptist University"
+  logo: "HKBU.png"
+  alt: "Hong Kong Baptist University Logo"
+
+- name: "HKPU"
+  logo: "HKPU.png"
+  alt: "HKPU Logo"
+
 - name: "jiangsu Normal University"
   logo: "JSNU.png"
   alt: "jiangsu Normal University Logo"
@@ -18,6 +26,14 @@
   logo: "LYU.png"
   alt: "LYU Logo"
 
+- name: "NEFU"
+  logo: "NEFU.png"
+  alt: "NEFU Logo"
+
+- name: "NSU"
+  logo: "NSU.png"
+  alt: "NSU Logo"
+
 - name: "QFNU"
   logo: "QFNU.png"
   alt: "QFNU Logo"
@@ -33,3 +49,7 @@
 - name: "SNU"
   logo: "SNU.png"
   alt: "SNU Logo"
+
+- name: "UM"
+  logo: "UM.png"
+  alt: "UM Logo"
