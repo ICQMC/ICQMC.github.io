@@ -1,5 +1,5 @@
-- name: "PaperSubmission Deadline"
-  subtitle: "(Contributed Talks and Posters)"
+- name: "Paper Submission Deadline"
+  #subtitle: "(Contributed Talks and Posters)"
   date: "April 15, 2026"
 
 - name: "Conference Dates"
