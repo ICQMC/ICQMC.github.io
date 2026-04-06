@@ -28,7 +28,13 @@
             <li><a href="{{ '/registration' | relative_url }}">Registration</a></li>
             <li><a href="{{ '/submission' | relative_url }}">Submission</a></li>
             <li><a href="{{ '/venue' | relative_url }}">Venue</a></li>
-            <li><a href="#" id="history-link">History</a></li>
+            <li class="dropdown">
+                <a href="#">History</a>
+                <ul class="dropdown-menu">
+                    <li><a href="{{ '/history' | relative_url }}#2025">ICQMC 2025</a></li>
+                    <li><a href="{{ '/history' | relative_url }}#2024">ICQMC 2024</a></li>
+                </ul>
+            </li>
         </ul>
     </div>
 </nav>
